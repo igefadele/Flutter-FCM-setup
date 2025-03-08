@@ -2,6 +2,9 @@
 
 This repository provides a complete tutorial on implementing Firebase Cloud Messaging (FCM) and Flutter Local Notifications for Android and iOS applications. The tutorial walks through setting up FCM, handling background and foreground notifications, managing permissions, and displaying notifications with custom configurations for both platforms.
 
+## Read Full Tutorial
+https://amanullahbahram.medium.com/using-firebase-cloud-messaging-fcm-with-flutter-latest-version-3e6c977ec005
+
 ## 🎥 YouTube Tutorial
 
 Watch the complete video tutorial here: [YouTube Tutorial](https://youtu.be/CCrBHh8TcIE)
