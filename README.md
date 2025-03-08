@@ -9,8 +9,6 @@ https://amanullahbahram.medium.com/using-firebase-cloud-messaging-fcm-with-flutt
 
 Watch the complete video tutorial here: [YouTube Tutorial](https://youtu.be/CCrBHh8TcIE)
 
-Updated: https://www.youtube.com/watch?v=4Cwp1iA8BaQ
-
 The video tutorial includes:
 - Setting up Firebase for FCM in a Flutter project.
 - Implementing background and foreground notification handlers.
